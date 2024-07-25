@@ -1,3 +1,5 @@
+package LeetCode;
+
 public class SubarraySumsDivisiblebyK {
 
     /*
