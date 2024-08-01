@@ -4,6 +4,12 @@ import java.util.HashSet;
 
 public class LongestConsecutiveSequence {
 
+    /*
+    * 128. Longest Consecutive Sequence
+    * https://leetcode.com/problems/longest-consecutive-sequence/description/
+    *
+    * */
+
     public static void main(String[] args) {
 
         int[] inp = {100,4,200,1,3,2};

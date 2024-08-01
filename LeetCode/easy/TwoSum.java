@@ -1,8 +1,12 @@
-package LeetCode.medium;
+package LeetCode.easy;
 
 import java.util.HashMap;
 import java.util.LinkedList;
 
+/*
+1. Two Sum
+https://leetcode.com/problems/two-sum/description/
+ */
 public class TwoSum {
 
     public static void main(String[] args) {
