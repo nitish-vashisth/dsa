@@ -5,6 +5,7 @@
    ### Easy
 
   - [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
+  - [2788. Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator/description/)
    
    ### Medium
 
