@@ -9,6 +9,7 @@
    
    ### Medium
 
+  - [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
   - [55. Jump Game](https://leetcode.com/problems/jump-game/description/)
   - [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)
   - [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
