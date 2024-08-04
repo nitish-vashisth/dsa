@@ -9,6 +9,7 @@
    
    ### Medium
 
+  - [15. 3Sum](https://leetcode.com/problems/3sum/description/)
   - [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
   - [55. Jump Game](https://leetcode.com/problems/jump-game/description/)
   - [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/?source=submission-ac)
