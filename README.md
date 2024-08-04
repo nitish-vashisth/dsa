@@ -5,6 +5,7 @@
    ### Easy
 
   - [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
+  - [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
   - [2788. Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator/description/)
    
    ### Medium
