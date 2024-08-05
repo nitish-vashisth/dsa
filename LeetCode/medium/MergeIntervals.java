@@ -1,5 +1,7 @@
 package LeetCode.medium;
 
+import java.util.LinkedList;
+
 /*
     56. Merge Intervals
     https://leetcode.com/problems/merge-intervals/description/?source=submission-ac
