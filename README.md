@@ -24,3 +24,7 @@
   
    ### Hard
    - [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
+
+    ### ToDo
+   - [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
+   - 
