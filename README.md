@@ -6,6 +6,7 @@
 
   - [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
   - [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+  - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
   - [2788. Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator/description/)
    
    ### Medium
@@ -27,5 +28,4 @@
    - [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
 
    ### ToDo
-   - [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
    - [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/description/)
