@@ -29,3 +29,5 @@
 
    ### ToDo
    - [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/description/)
+   - 122. Best Time to Buy and Sell Stock II
+   - 123. Best Time to Buy and Sell Stock III
