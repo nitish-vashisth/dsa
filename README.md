@@ -17,11 +17,13 @@
   - [55. Jump Game](https://leetcode.com/problems/jump-game/description/)
   - [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/?source=submission-ac)
   - [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)
+  - [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
   - [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
   - [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/)
   - [347. Top K Frequent Elements](https://github.com/nitish-vashisth/dsa/blob/main/LeetCode/medium/TopKFrequentElements.java)
   - [767. Reorganize String](https://leetcode.com/problems/reorganize-string/description/)
   - [974. Subarray Sums Divisible by K](https://github.com/nitish-vashisth/dsa/blob/main/LeetCode/medium/SubarraySumsDivisiblebyK.java)
+  - [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/)
 
   
    ### Hard
@@ -29,5 +31,4 @@
 
    ### ToDo
    - [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/description/)
-   - 122. Best Time to Buy and Sell Stock II
    - 123. Best Time to Buy and Sell Stock III
