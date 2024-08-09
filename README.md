@@ -38,7 +38,7 @@
    - [1615. Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/description/)
 
    ### ToAddCode
-   - 34 , 209, 239
+   - 34 , 209, 239 , 1768
 
    ### Other 
    - [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/)
