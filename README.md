@@ -35,6 +35,10 @@
    ### ToDo
    - [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/description/)
    - 123. Best Time to Buy and Sell Stock III
+   - [1615. Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/description/)
 
    ### ToAddCode
    - 34 , 209, 239
+
+   ### Other 
+   - [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/)
