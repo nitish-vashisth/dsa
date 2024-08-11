@@ -8,6 +8,7 @@
   - [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
   - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
   - [2788. Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator/description/)
+  - Total - 4
    
    ### Medium
 
@@ -20,25 +21,28 @@
   - [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)
   - [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
   - [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
+  - [134. Gas Station](https://leetcode.com/problems/gas-station/description/)
   - [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
   - [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/)
   - [347. Top K Frequent Elements](https://github.com/nitish-vashisth/dsa/blob/main/LeetCode/medium/TopKFrequentElements.java)
   - [767. Reorganize String](https://leetcode.com/problems/reorganize-string/description/)
   - [974. Subarray Sums Divisible by K](https://github.com/nitish-vashisth/dsa/blob/main/LeetCode/medium/SubarraySumsDivisiblebyK.java)
   - [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/)
+  - Total- 16
 
   
    ### Hard
    - [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
    - [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/)
+   - Total - 2
 
    ### ToDo
    - [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/description/)
-   - 123. Best Time to Buy and Sell Stock III
+   - [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
    - [1615. Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/description/)
 
    ### ToAddCode
-   - 34 , 209, 239 , 1768, 1679, 134134. Gas Station
+   - 34 , 209, 239 , 1768, 1679, 134
 
    ### Other 
    - [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/) 
