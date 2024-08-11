@@ -41,5 +41,6 @@
    - 34 , 209, 239 , 1768, 1679, 134134. Gas Station
 
    ### Other 
-   - [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/)
+   - [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/) 
    - [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
+   - [Blind 75](https://www.techinterviewhandbook.org/coding-interview-study-plan/)
