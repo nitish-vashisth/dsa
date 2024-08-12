@@ -53,3 +53,8 @@
    - [Grind 75](https://leetcode.com/list/rab78cw1)
    - [Neetcode 150](https://leetcode.com/list/rr2ss0g5)
    - [SQL 45](https://leetcode.com/list/o2qifkts)
+
+  ## Blind 75
+    - Done : 1 , 2
+    - Stuck : 3
+    
