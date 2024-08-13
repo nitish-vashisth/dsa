@@ -55,6 +55,6 @@
    - [SQL 45](https://leetcode.com/list/o2qifkts)
 
   ## Blind 75
-    - Done : 1 , 2
+    - Done : 1 , 2, 4, 5
     - Stuck : 3
     
