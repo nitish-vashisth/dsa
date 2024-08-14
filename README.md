@@ -42,7 +42,7 @@
    - [1615. Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/description/)
 
    ### ToAddCode
-   - 3, 5, 11, 19, 21, 34 , 134, 209, 239 , 1679, 1768
+   - 3, 5, 11, 19, 21, 23, 34 , 134, 209, 239 , 1679, 1768 
 
    ### Other 
    - [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/) 
@@ -55,6 +55,6 @@
    - [SQL 45](https://leetcode.com/list/o2qifkts)
 
   ## Blind 75
-    - Done : 1 , 2, 4, 5, 6 , 8
+    - Done : 1 , 2, 4, 5, 6 , 8, 9 , 10
     - Stuck : 3
     
