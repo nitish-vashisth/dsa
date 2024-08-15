@@ -29,7 +29,7 @@
   - [767. Reorganize String](https://leetcode.com/problems/reorganize-string/description/)
   - [974. Subarray Sums Divisible by K](https://github.com/nitish-vashisth/dsa/blob/main/LeetCode/medium/SubarraySumsDivisiblebyK.java)
   - [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/)
-  - Total- 16
+  - Total- 17
 
   
    ### Hard
