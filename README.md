@@ -58,4 +58,10 @@
   ## Blind 75
     - Done : 1 , 2, 4, 5, 6 , 8, 9 , 10
     - Stuck : 3
-    
+
+  ## Dynamic Programmning
+   - Min Cost Path
+   - Longest Common Subsequence
+   - Longest Palindromic Subsequence
+   - Edit Distance
+     
