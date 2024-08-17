@@ -37,6 +37,8 @@
    - [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/description/)
    - [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
    - [1615. Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/description/)
+   - 3206. Alternating Groups I
+   - 3208. Alternating Groups II 
 
    ### ToAddCode
    - 3, 5, 11, 19, 21, 23, 34 , 134, 209, 239 , 1679, 1768 , 775, 39 (BackTracking), 62
