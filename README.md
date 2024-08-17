@@ -41,6 +41,7 @@
    - 3208. Alternating Groups II
    - 229. Majority Element II
    - 5. Longest Palindromic Substring
+   - 205. Isomorphic Strings
 
    ### ToAddCode
    - 3, 5, 11, 19, 21, 23, 34 , 134, 209, 239 , 1679, 1768 , 775, 39 (BackTracking), 62
