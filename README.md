@@ -48,16 +48,12 @@
    ### Other 
    - [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/) 
    - [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
-   - [Blind 75](https://www.techinterviewhandbook.org/coding-interview-study-plan/)
+   - [Blind 75 - Theory](https://www.techinterviewhandbook.org/coding-interview-study-plan/)
    - [Blind 75](https://leetcode.com/list/oizxjoit)
    - [Grind 169](https://leetcode.com/list/rabvlt31)
    - [Grind 75](https://leetcode.com/list/rab78cw1)
    - [Neetcode 150](https://leetcode.com/list/rr2ss0g5)
    - [SQL 45](https://leetcode.com/list/o2qifkts)
-
-  ## Blind 75
-    - Done : 1 , 2, 4, 5, 6 , 8, 9 , 10
-    - Stuck : 3
 
   ## Dynamic Programmning
    - Min Cost Path
