@@ -43,7 +43,7 @@
    - [1615. Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/description/)
 
    ### ToAddCode
-   - 3, 5, 11, 19, 21, 23, 34 , 134, 209, 239 , 1679, 1768 , 775, 39 (BackTracking)
+   - 3, 5, 11, 19, 21, 23, 34 , 134, 209, 239 , 1679, 1768 , 775, 39 (BackTracking), 62
 
    ### Other 
    - [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/) 
