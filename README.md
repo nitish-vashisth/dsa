@@ -8,7 +8,6 @@
   - [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
   - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
   - [2788. Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator/description/)
-  - Total - 4
    
    ### Medium
 
@@ -29,14 +28,11 @@
   - [767. Reorganize String](https://leetcode.com/problems/reorganize-string/description/)
   - [974. Subarray Sums Divisible by K](https://github.com/nitish-vashisth/dsa/blob/main/LeetCode/medium/SubarraySumsDivisiblebyK.java)
   - [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/)
-  - Total- 17
-
   
    ### Hard
    - [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
    - [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/)
-   - Total - 2
-
+  
    ### ToDo
    - [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/description/)
    - [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
