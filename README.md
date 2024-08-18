@@ -71,4 +71,4 @@
 
  ## Java Syntax
 
-  If coding in java , check this repo for : [Handy Java Syntax](https://github.com/nitish-vashisth/java-prepkaro/blob/main/README.md)
+  If coding in java , check this repo for : [Handy Java Syntax](https://github.com/nitish-vashisth/java-prepkaro/blob/main/README.md#handy-java-syntax)
