@@ -65,7 +65,7 @@
 
   ## Important Data Structure and Algorithms
    ### Trie / Prefix Sum
-      - [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)
+   - [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)
      
   ## Dynamic Programmning
    - Min Cost Path
