@@ -70,11 +70,19 @@
    - Edit Distance
 
  ## Java Syntax
+
+   ### Maths
+   
  
    ### String 
-    - Create String
-      String name = "Nitish"
-      String name = new String("Nitish);
+   | Syntax                      |   Example                          |
+   |-----------------------------|------------------------------------|
+   | Create String I             | String name = "Nitish"             |
+   | Create String II            | String name = new String("Nitish); |
+   | String to Char Array        | char[] ch = s.toCharArray()        |
+   
+       
+    - 
     - String , StringBuilder, StringBuffer
     - charAt(index)
     - int length()
@@ -88,6 +96,8 @@
     - String valueOf(int value)
     - Integer.parseInt()
     - split() ex - s1.split("\\s") , s1.split("\\,")
+    - StringBuilder br = new StringBuilder() // bru.append(" test \n"); bru.reverse();  bru.toString();
+    
 
    ### Array
 
