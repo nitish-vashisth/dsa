@@ -64,7 +64,8 @@
    - [SQL 45](https://leetcode.com/list/o2qifkts)
 
   ## Important Data Structure and Algorithms
-   - Trie / Prefix Sum
+   ### Trie / Prefix Sum
+      - [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)
      
   ## Dynamic Programmning
    - Min Cost Path
