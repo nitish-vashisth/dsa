@@ -71,16 +71,19 @@
 
  ## Java Syntax
 
-   ### Maths and Genral
-   | Syntax                      |   Example                          |
-   |-----------------------------|------------------------------------|
-   | | |
-   | | |
-   | | |
-   | | |
-   | | |
-   
-   
+   ###  Ascii value range
+    - Total - 256
+    - 0-9  48-57
+		- A-Z 65-90
+		- a-z 97-122
+
+   ### Maths and General
+   | Syntax                          |   Example                                     |
+   |-----------------------------    |------------------------------------           |
+   | Min and Max integer value       | Integer.MIN_VALUE  , Intgere.MAX_VALUE        |
+   | max, min , abs                  |  Math.max(a,b), Math.min(a,b),  Math.abs(num) |
+
+  
  
    ### String 
    | Syntax                      |   Example                          |
@@ -88,11 +91,11 @@
    | Create String I             | String name = "Nitish"             |
    | Create String II            | String name = new String("Nitish); |
    | String to Char Array        | char[] ch = s.toCharArray()        |
-   
+   |                             |                                     |
        
-    - 
     - String , StringBuilder, StringBuffer
     - charAt(index)
+    - Character.toString(char)
     - int length()
     - substring(int startIndex) , substring(startIndex, endIndex)
     - equals, equalsIgnoreCase(), compareTo
@@ -100,6 +103,7 @@
     - replace(oldChar, new Char)
     - toUpperCase(), toLowerCase()
     - int indexOf(int ch) , indexOf(int ch, int fromIndex), int indexOf(String substring) , int indexOf(String substring, int fromIndex)
+    - s1.contains(s2)
     - trim()
     - String valueOf(int value)
     - Integer.parseInt()
@@ -113,6 +117,32 @@
   |---------------------------|------------------------------------|
   | Create array I            | int[] num = new int[5];            |
   | Create array II           | int[] num = {1, 2, 3, 4, 5};       |
+  | Sort an array             | Arrays.sort(al);     * check how to change this default behaviour    |
   
 
+  ### Java Collection
+  	Collection.sort();
+		Collection.reverse
+  
+  
+  ### Lambda Expressions
  
+     al.sort((Student s1,Student s2)->s1.age-s2.age);
+     al.sort((Student s1,Student s2)->s1.name.compareTo(s2));
+     al.forEach( stud -> System.out.println(stud.name + " " + stud.age) );
+
+  ## Heap
+
+   default is min heap
+   PriorityQueue<Node> p = new PriorityQueue<Node>((x,y)->y-x);
+
+ Map
+		=====
+		
+		hm.forEach((k,v)->System.out.println(k,v));
+		hm.forEach((k,v)->{Staements});
+		
+		PriorityQueue<> pq = new PriorityQueue((x,y)->y-x);
+		
+		
+		Collections.reverse()
