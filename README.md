@@ -28,6 +28,7 @@
   - [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
   - [134. Gas Station](https://leetcode.com/problems/gas-station/description/)
   - [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
+  - [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)
   - [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
   - [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/)
   - [347. Top K Frequent Elements](https://github.com/nitish-vashisth/dsa/blob/main/LeetCode/medium/TopKFrequentElements.java)
