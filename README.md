@@ -68,4 +68,33 @@
    - Longest Common Subsequence
    - Longest Palindromic Subsequence
    - Edit Distance
-     
+
+ ## Java Syntax
+ 
+   ### String 
+    - Create String
+      String name = "Nitish"
+      String name = new String("Nitish);
+    - String , StringBuilder, StringBuffer
+    - charAt(index)
+    - int length()
+    - substring(int startIndex) , substring(startIndex, endIndex)
+    - equals, equalsIgnoreCase(), compareTo
+    - isEmpty()
+    - replace(oldChar, new Char)
+    - toUpperCase(), toLowerCase()
+    - int indexOf(int ch) , indexOf(int ch, int fromIndex), int indexOf(String substring) , int indexOf(String substring, int fromIndex)
+    - trim()
+    - String valueOf(int value)
+    - Integer.parseInt()
+    - split() ex - s1.split("\\s") , s1.split("\\,")
+
+   ### Array
+
+  | Syntax                    |   Example                          |
+  |---------------------------|------------------------------------|
+  | Create array I            | int[] num = new int[5];            |
+  | Create array II           | int[] num = {1, 2, 3, 4, 5};       |
+  
+
+ 
