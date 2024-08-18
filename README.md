@@ -63,6 +63,9 @@
    - [Neetcode 150](https://leetcode.com/list/rr2ss0g5)
    - [SQL 45](https://leetcode.com/list/o2qifkts)
 
+  ## Important Data Structure and Algorithms
+   - Trie / Prefix Sum
+     
   ## Dynamic Programmning
    - Min Cost Path
    - Longest Common Subsequence
