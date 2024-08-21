@@ -52,7 +52,7 @@
    - [127. Word Ladder]()
 
    ### ToAddCode
-   - 21, 23, 34 , 134, 209, 239 , 1679, 1768 , 775
+   - 20, 21, 23, 34 , 134, 209, 239 , 1679, 1768 , 775, 739, 735, 217, 242, 
 
    ### Other 
    - [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/) 
