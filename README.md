@@ -17,6 +17,7 @@
 | Heap | |
 | Trie | |
 | Interval| |
+|Greedy ||
 | DP | |
 | Binary | |
 | Math | |
