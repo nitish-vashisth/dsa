@@ -4,6 +4,7 @@
 |-----------------------| -----------|
 | Array                 | |
 | String                 | |
+| Two Pointer | |
 | HashTable         | |
 | Recursion               | |
 | Sorting and Searching       | |
@@ -19,7 +20,6 @@
 | DP | |
 | Binary | |
 | Math | |
-| Two Pointer | |
 
 
 # DSA Problem Solved
