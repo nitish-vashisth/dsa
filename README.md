@@ -40,13 +40,13 @@
   - [767. Reorganize String](https://leetcode.com/problems/reorganize-string/description/)
   - [974. Subarray Sums Divisible by K](https://github.com/nitish-vashisth/dsa/blob/main/LeetCode/medium/SubarraySumsDivisiblebyK.java)
   - [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/)
+  - [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/description/)
   
    ### Hard
    - [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
    - [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/)
   
    ### ToDo
-   - [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/description/)
    - [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
    - [1615. Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/description/)
    - [3206. Alternating Groups I]()
