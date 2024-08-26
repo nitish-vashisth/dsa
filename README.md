@@ -1,6 +1,25 @@
 # DSA Topics
 
-
+|Topic                  | Data Done  |
+|-----------------------| -----------|
+| Array                 | |
+| String                 | |
+| HashTable         | |
+| Recursion               | |
+| Sorting and Searching       | |
+| Matrix | |
+| LinkedList | |
+| Queue | |
+| Stack | |
+| Tree | |
+| Graph | |
+| Heap | |
+| Trie | |
+| Interval| |
+| DP | |
+| Binary | |
+| Math | |
+| Two Pointer | |
 
 
 # DSA Problem Solved
@@ -82,3 +101,9 @@
  ## Java Syntax
 
   If coding in java , check this repo for : [Handy Java Syntax](https://github.com/nitish-vashisth/java-prepkaro/blob/main/README.md#handy-java-syntax)
+
+## LeetCode Contest
+
+| Weekly                          | Bi-Weekly |
+|---------------------------------|-----------|
+|                                 |           |
