@@ -61,6 +61,7 @@
   - [974. Subarray Sums Divisible by K](https://github.com/nitish-vashisth/dsa/blob/main/LeetCode/medium/SubarraySumsDivisiblebyK.java)
   - [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/)
   - [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/description/)
+  - 435. Non-overlapping Intervals - Do it in O(n)
   
    ### Hard
    - [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
